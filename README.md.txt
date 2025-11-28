@@ -25,7 +25,6 @@ The project uses:
 
 Loaded using:
 
-```python
 from diffusers import DiffusionPipeline
 pipe = DiffusionPipeline.from_pretrained("CompVis/stable-diffusion-v1-4")
 pipe.to("cuda")
@@ -46,16 +45,16 @@ text-to-image-stable-diffusion/
 ▶️ How to Run
 🔹 Run on Google Colab
 
-Upload the notebook
+- Upload the notebook
 
-Run all cells from top to bottom
+- Run all cells from top to bottom
 
-Ensure GPU runtime is enabled (Runtime → Change runtime → GPU)
+- Ensure GPU runtime is enabled (Runtime → Change runtime → GPU)
 
 🔹 Run Locally (Requires GPU)
 
 1. Clone the repository:
-git clone https://github.com/YOUR-USERNAME/text-to-image-stable-diffusion.git
+git clone https://github.com/Jugal2107/text-to-image-stable-diffusion.git
 cd text-to-image-stable-diffusion
 
 2. Install dependencies:
@@ -98,6 +97,7 @@ This project highlights my skills in:
 - Practical ML experimentation
 
 This repository demonstrates my interest in AI research and creativity-focused machine learning applications.
+
 
 
 
